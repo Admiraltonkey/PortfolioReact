@@ -10,7 +10,7 @@ function Main() {
                 <div className={styles.greeting}>
                     <Fade left>
                         <span>Hi There</span>
-                        <span className={styles.name}>I am Sergei <span> Petrusenko</span></span>
+                        <span className={styles.name}>I am Dmitry <span> Vorontsov </span></span>
                         <h1>A Front-end developer</h1>
                     </Fade>
                 </div>

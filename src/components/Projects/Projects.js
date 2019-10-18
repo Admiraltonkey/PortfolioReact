@@ -52,16 +52,6 @@ function Projects() {
                              href={'https://github.com/petrusenkosergei/Counter-React-redux'}
                              description = {"Completed training in IT-incubator on Front-end developing using React/Redux.\n" +
                              "Worked on social media project using React/ Redux, GIT.\n"}/>
-                    <Project title = {'Meet Brandi'}
-                             style={BrandiImg}
-                             href={'https://github.com/petrusenkosergei/Project-IT-Academy'}
-                             description = {"Completed training in IT-Academy on web developing using HTML, CSS и JavaScript." +
-                             "In project used HTML5 and  CSS3, preprocessor  SASS, framework Bootstrap, GULP assemble, version control system GIT."}/>
-                    <Project title = {'Finance'}
-                             style={TeamImg}
-                             href={'https://github.com/petrusenkosergei/Financial-program'}
-                             description = {"Completed training in IT-Academy on web developing using HTML, CSS и JavaScript." +
-                             "In project used HTML5 and  CSS3, preprocessor  SASS, framework Bootstrap, GULP assemble, version control system GIT."}/>
                     <Project title = {'Game Dog'}
                              style={DogImg}
                              href={'https://github.com/petrusenkosergei/Social-network-React-redux'}

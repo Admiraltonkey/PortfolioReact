@@ -12,10 +12,10 @@ function Footer() {
         <div className={styles.footer}>
             <Flip bottom>
                 <div className={styles.container}>
-                    <BlockTitle title={"Sergei Petrusenko"}/>
+                    <BlockTitle title={"Vorontsov Dmitry"}/>
                     <div className={styles.socialBlock}>
                         <div className={styles.socialIcon}>
-                            <a href ="https://www.instagram.com/sergei__petrusenko">
+                            <a href ="https://www.instagram.com/dmitry_vorontsoff/">
                                 <img src ={instagramIcon} alt=""/>
                             </a>
                         </div>
@@ -25,7 +25,7 @@ function Footer() {
                             </a>
                         </div>
                         <div className={styles.socialIcon}>
-                            <a href ="https://vk.com/s.petrusenko" >
+                            <a href ="https://vk.com/id45641215" >
                                 <img src ={vkIcon} alt=""/>
                             </a>
                         </div>
