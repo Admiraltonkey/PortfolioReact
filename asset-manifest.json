@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/PortfolioReact/static/css/main.d8599a0f.chunk.css",
+    "main.js": "/PortfolioReact/static/js/main.90685aba.chunk.js",
+    "main.js.map": "/PortfolioReact/static/js/main.90685aba.chunk.js.map",
+    "runtime~main.js": "/PortfolioReact/static/js/runtime~main.07fd605d.js",
+    "runtime~main.js.map": "/PortfolioReact/static/js/runtime~main.07fd605d.js.map",
+    "static/js/2.6655adb9.chunk.js": "/PortfolioReact/static/js/2.6655adb9.chunk.js",
+    "static/js/2.6655adb9.chunk.js.map": "/PortfolioReact/static/js/2.6655adb9.chunk.js.map",
+    "index.html": "/PortfolioReact/index.html",
+    "precache-manifest.01fdb8041017e000d77397f5b3d911e6.js": "/PortfolioReact/precache-manifest.01fdb8041017e000d77397f5b3d911e6.js",
+    "service-worker.js": "/PortfolioReact/service-worker.js",
+    "static/css/main.d8599a0f.chunk.css.map": "/PortfolioReact/static/css/main.d8599a0f.chunk.css.map",
+    "static/media/Main.module.css": "/PortfolioReact/static/media/A8hXfU75KeY.224d9608.jpg",
+    "static/media/Brandi.jpg": "/PortfolioReact/static/media/Brandi.431abcff.jpg",
+    "static/media/Count.png": "/PortfolioReact/static/media/Count.ff60d17e.png",
+    "static/media/Instagram_icon.png": "/PortfolioReact/static/media/Instagram_icon.e0b39660.png",
+    "static/media/Linkedin_icon.png": "/PortfolioReact/static/media/Linkedin_icon.6b6290a6.png",
+    "static/media/VK_icon.png": "/PortfolioReact/static/media/VK_icon.392355aa.png",
+    "static/media/dog.png": "/PortfolioReact/static/media/dog.db7abc48.png",
+    "static/media/gulp.svg": "/PortfolioReact/static/media/gulp.0c5248f6.svg",
+    "static/media/html_icon.svg": "/PortfolioReact/static/media/html_icon.ce6e5ba0.svg",
+    "static/media/react-icon.png": "/PortfolioReact/static/media/react-icon.6e8f68df.png",
+    "static/media/react_todo_list.jpg": "/PortfolioReact/static/media/react_todo_list.034768c8.jpg",
+    "static/media/reactjs-tutorial-700x280.png": "/PortfolioReact/static/media/reactjs-tutorial-700x280.a31e291c.png",
+    "static/media/redux.png": "/PortfolioReact/static/media/redux.59c46753.png",
+    "static/media/sass-1.svg": "/PortfolioReact/static/media/sass-1.b446ca5a.svg",
+    "static/media/Projects.module.css": "/PortfolioReact/static/media/social_icons.4fb72822.jpg",
+    "static/media/teamProject.jpeg": "/PortfolioReact/static/media/teamProject.0cbc8000.jpeg"
+  }
+}
