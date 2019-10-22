@@ -39,22 +39,22 @@ function Projects() {
                     <Project title = {'To do list'}
                              btnShowCode={'https://habr.com/ru/post/42151/'}
                              style={todolistImg}
-                             href="https://github.com/petrusenkosergei/TodoList-React-redux"
+                             href=""
                              description = {"Completed training in IT-incubator on Front-end developing using React/Redux.\n" +
                              "Worked on social media project using React/ Redux, GIT.\n"}/>
                     <Project title = {'Social Network'}
                              style={socialNetworkingImg}
-                             href={'https://github.com/petrusenkosergei/Social-network-React-redux'}
+                             href={''}
                              description = {"Completed training in IT-incubator on Front-end developing using React/Redux.\n" +
                              "Worked on social media project using React/ Redux, GIT.\n"}/>
                     <Project title = {'Count'}
                              style={calculatorImg}
-                             href={'https://github.com/petrusenkosergei/Counter-React-redux'}
+                             href={''}
                              description = {"Completed training in IT-incubator on Front-end developing using React/Redux.\n" +
                              "Worked on social media project using React/ Redux, GIT.\n"}/>
                     <Project title = {'Game Dog'}
                              style={DogImg}
-                             href={'https://github.com/petrusenkosergei/Social-network-React-redux'}
+                             href={''}
                              description = {"Completed training in IT-incubator on Front-end developing using React/Redux.\n" +
                              "Worked on social media project using React/ Redux, GIT.\n"}/>
                 </div>
