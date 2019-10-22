@@ -26,22 +26,28 @@ function Skills() {
           <div className={styles.skillsWrapper}>
             <Skill title={"HTML5&CSS3"}
                    icon = {html}
-                   description={"Lorem ipsum dolor sit amet, consectetur adipisicing ipsum dolor nesciunt soluta elit. Nulla, veniam."}/>
+                   description={"HTML tags, attributes, typography, semantic tags, media, audio, video.CSS 1,2,3; positioning elements, adaptive layout, flex-box, greed layout, \n" +
+                   "                                                  cross-browser, BEM methodology"}/>
             <Skill title={"JS (ES6)"}
                    icon = {js}
-                   description={"Lorem ipsum dolor sit amet, consectetur adipisicing ipsum dolor nesciunt soluta elit. Nulla, veniam."}/>
+                   description={"ES5, ES6, arrow function, classes, constructors, 'this', let/const, DOM,\n" +
+                   "                                                        Object.prototype, closures, callback, promise, async/await,\n" +
+                   "                                                        template literals."}/>
             <Skill title={"React"}
                    icon = {react}
-                   description={"Lorem ipsum dolor sit amet, consectetur adipisicing ipsum dolor nesciunt soluta elit. Nulla, veniam."}/>
-              <Skill title={"Gulp"}
-                     icon = {gulp}
-                     description={"Lorem ipsum dolor sit amet, consectetur adipisicing ipsum dolor nesciunt soluta elit. Nulla, veniam."}/>
-              <Skill title={"Sass"}
-                     icon = {sass}
-                     description={"Lorem ipsum dolor sit amet, consectetur adipisicing ipsum dolor nesciunt soluta elit. Nulla, veniam."}/>
+                   description={"JSX syntax, react-router-dom, Flux architecture, UI-BLL-DAL conception,\n" +
+                   "                                                    clear function, REST API(CRUD), axios(AJAX requests), HOC,\n" +
+                   "                                                    hooks, component with state, lifecycle, handling events, module CSS."}/>
+              {/*<Skill title={"Gulp"}*/}
+              {/*       icon = {gulp}*/}
+              {/*       description={"Lorem ipsum dolor sit amet, consectetur adipisicing ipsum dolor nesciunt soluta elit. Nulla, veniam."}/>*/}
+              {/*<Skill title={"Sass"}*/}
+              {/*       icon = {sass}*/}
+              {/*       description={"Lorem ipsum dolor sit amet, consectetur adipisicing ipsum dolor nesciunt soluta elit. Nulla, veniam."}/>*/}
               <Skill title={"Redux"}
                      icon = {redux}
-                     description={"Lorem ipsum dolor sit amet, consectetur adipisicing ipsum dolor nesciunt soluta elit. Nulla, veniam."}/>
+                     description={"redux(store, reducers, dispatch, subscribe,applyMiddleware), \n" +
+                     "                                                    react-redux(provider, connect), redux-thunk,redux-form."}/>
           </div>
           </div>
           </Fade>

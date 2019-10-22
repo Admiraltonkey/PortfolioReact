@@ -35,7 +35,7 @@ function Footer() {
                             </a>
                         </div>
                     </div>
-                    <span className={styles.copyright}>©2019 Все права защищены</span>
+                    <span className={styles.copyright}>©2019 All rights reserved</span>
                 </div>
             </Flip>
         </div>

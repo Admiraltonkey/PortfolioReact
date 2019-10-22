@@ -16,7 +16,7 @@ function Contacts() {
                         <input className={styles.formArea} placeholder="Name" type="text"></input>
                         <input className={styles.formArea} placeholder="e-mail" type="email"></input>
                         <textarea className={styles.messageArea} placeholder="Your message"></textarea>
-                        <button className={styles.btnSubmit} type="submit">Отправить</button>
+                        <button className={styles.btnSubmit} type="submit">Send</button>
                     </form>
                 </div>
             </Fade>
