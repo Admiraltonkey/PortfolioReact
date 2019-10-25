@@ -20,7 +20,7 @@ function Footer() {
                             </a>
                         </div>
                         <div className={styles.socialIcon}>
-                            <a href ="https://www.facebook.com/sergei.petrusenko?ref=bookmarks" >
+                            <a href ="" >
                                 <img src ={fasebookIcon} alt=""/>
                             </a>
                         </div>
@@ -30,7 +30,7 @@ function Footer() {
                             </a>
                         </div>
                         <div className={styles.socialIcon}>
-                            <a href ="https://www.linkedin.com/in/petrusenka/" >
+                            <a href ="" >
                                 <img src ={linkedinIcon} alt=""/>
                             </a>
                         </div>

@@ -39,7 +39,7 @@ function Projects() {
                     <Project title = {'To do list'}
                              btnShowCode={'https://habr.com/ru/post/42151/'}
                              style={todolistImg}
-                             href=""
+                             href=" https://admiraltonkey.github.io/newTodolistfor11/"
                              description = {"Completed training in IT-incubator on Front-end developing using React/Redux.\n" +
                              "Worked on social media project using React/ Redux, GIT.\n"}/>
                     <Project title = {'Social Network'}
